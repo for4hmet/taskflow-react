@@ -7,6 +7,14 @@ modern ve kullanıcı dostu bir görev yönetim uygulamasıdır.
 Bu proje, TNC Group / Software Persona Web Geliştirme
 eğitim programı kapsamında hazırlanmıştır.
 
+
+
+## Proje Bağlantıları
+
+- **Canlı Uygulama (Netlify):** [TaskFlow'u Görüntüle](https://taskflow-for4hmet.netlify.app/)
+- **GitHub Repository:** [Kaynak Kodları İncele](https://github.com/for4hmet/taskflow-react)
+
+
 ## Özellikler
 
 - Yeni görev oluşturma (Create)
